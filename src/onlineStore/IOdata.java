@@ -1,11 +1,13 @@
 package onlineStore;
 
+import java.util.ArrayList;
+
 public interface IOdata {
 
     void entrance();
 
-    void inputData();
+    void inputDataUser();
 
-    void outputData();
+    void outputDataUser();
 
 }
